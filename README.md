@@ -1,6 +1,6 @@
 ### About Me
 
-Hi! 👋 I am a 16-year-old programming enthusiast with a passion for Python 🐍 and C++ 💻. I love solving complex problems 🧩 and exploring the world of quantitative finance 📊. I aspire to become a Quant in the future, combining my interest in mathematics 📐, programming 💾, and financial markets 💹.
+Hi! 👋 I am a programming enthusiast with a passion for Python 🐍 and C++ 💻. I love solving complex problems 🧩 and exploring the world of quantitative finance 📊. I aspire to become a Quant in the future, combining my interest in mathematics 📐, programming 💾, and financial markets 💹.
 
 ### Interests
 
