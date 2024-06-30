@@ -1,18 +1,27 @@
-### About Me
+## **About Me** 🌟
 
-Hi! 👋 I'm a 16-year-old student with a passion for programming, especially in Python 🐍 and C++ 💻. I love tackling complex problems 🧩 and exploring the world of quantitative finance 📊. While I enjoy programming in general, I'm particularly drawn to these languages and I’m eager to learn R as well 📊.
+Hi there! 👋 I'm a **7-year-old student from Mexico** 🇲🇽 with a big passion for **programming**! I’m currently diving into the world of **Python** 🐍 for **data science** 📊 and getting started with **C++** 💻.
 
-## Interests
+### **Interests** 🌟
 
-- **Programming languages:** Python 🐍, C++ 💻, eager to learn R 📊
-- **Areas of interest:** Quantitative finance 📊, algorithms 🧩, data analysis 📈
-- **Personal projects:** Developing small trading algorithms 📉, financial data analysis 💰, creating automation tools 🤖
+- **Programming Languages**: Python 🐍, C++ 💻
+- **Areas of Interest**: Quantitative finance 📈, algorithms 🧩, data analysis 📊
+- **Personal Projects**: Learning to create trading strategies 📉, exploring financial data 💰, and developing simple programs 🤖
 
-## Goals
+### **Goals** 🚀
 
-- Continuously improve my skills in Python 🐍 and C++ 💻
-- Learn R to enhance my data analysis capabilities 📊
-- Understand mathematical 📐 and statistical 📊 models applied to finance 💹
-- Participate in open-source projects related to quantitative finance and data analysis 🌐
+- **Short-Term Goals**: 
+  - **Improve my skills in Python and C++** 🐍💻: I’m working hard to get really good at these languages so I can build cool projects and solve interesting problems. 🌟
+  - **Learn as much as I can** 📚: I’m excited to learn new things every day and become a better programmer. 🌟🚀
 
-I’m excited to learn and collaborate on projects that bring me closer to my goal of becoming a Quant! 🚀
+- **Medium-Term Goals**: 
+  - **Become proficient in Python and C++** 🐍💻: My goal is to master these languages and use them for advanced projects. 📈💪
+  - **Study on my own to become a Quant** 📚🚀: I aim to teach myself everything I need to know to work as a **Quant Trader** independently in the future. 📊💵
+
+### **My Dream** 🌠
+
+In the future, I hope to be a **Quant Trader** 📈, creating investment strategies and analyzing financial data while living in a **small, peaceful village** 🌳🏡. I’m excited about the journey ahead and the chance to explore the world of finance and technology! 💫
+
+### **Excited for the Future** 🎉
+
+I’m thrilled about the path I’m on and can’t wait to learn more and work on amazing projects. Thanks for reading about me! 😊👋
