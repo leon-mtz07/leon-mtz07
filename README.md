@@ -11,7 +11,7 @@ Hi there! 👋 I'm a **7-year-old student from Mexico** 🇲🇽 with a big pass
 ### **Goals** 🚀
 
 - **Short-Term Goals**: 
-  - **Improve my skills in Python and C++** 🐍💻: I’m working hard to get really good at these languages so I can build cool projects and solve interesting problems. 🌟
+  - **Improve my skills in Python** 🐍💻: I’m working hard to get really good at these languages so I can build cool projects and solve interesting problems. 🌟
   - **Learn as much as I can** 📚: I’m excited to learn new things every day and become a better programmer. 🌟🚀
 
 - **Medium-Term Goals**: 
