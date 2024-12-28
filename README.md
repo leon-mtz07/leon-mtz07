@@ -5,7 +5,7 @@ Hi there! 👋 I'm a **student from Mexico** 🇲🇽 with a big passion for **p
 ### **Interests** 🌟
 
 - **Programming Languages**: Python 🐍
-- **Areas of Interest**: Quantitative finance 📈, algorithms 🧩, data analysis 📊
+- **Areas of Interest**: Quantitative finance 📈, algorithms 🧩, deep learning 📊
 - **Personal Projects**: Learning to create trading strategies 📉, exploring financial data 💰, and developing simple programs 🤖
 
 ### **Goals** 🚀
